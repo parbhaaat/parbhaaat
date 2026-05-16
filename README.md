@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="736" height="245" alt="download (7)" src="https://github.com/user-attachments/assets/1e7472b4-27db-41ae-b7c1-db815d77f11a" />
+  <img width="548" height="334" alt="minecraft" src="https://github.com/user-attachments/assets/cccaa5dd-cf51-4737-8af2-0b7568647829" />
 </div>
 
 <br>
