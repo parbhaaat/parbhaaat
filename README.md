@@ -7,11 +7,12 @@
 
 ## 🚀 About Me
 
-🔹 Skilled in SQL, Power BI, Tableau, Excel, and Python for analytics & visualization  
-🔹 Experienced in data cleaning, dashboard creation, and data storytelling  
-🔹 Interested in solving real-world business problems using data-driven decision making  
-🔹 Continuously learning new tools, analytical techniques, and business intelligence concepts  
-🔹 Focused on building interactive dashboards and impactful analytics projects
+🔹 I'm Currently working on and developing my skills eveyrday.
+🔹 My focus is on building interactive dashboards that drive smart, data-backed decisions.
+🔹 Dedicated to constantly mastering new analytical techniques and business intelligence concepts.
+🔹 I'm Currently working on and developing my skills eveyrday.
+🔹 I have built a versatile foundation in SQL, Power BI, Tableau, Excel, and Python, choosing the right tool for the right analytical challenge.
+
 
 
 ## 🛠️ Tech Stack
