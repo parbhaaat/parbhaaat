@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst turning raw data into meaningful business insights.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;SQL+%7C+Power+BI+%7C+Excel;Data+Cleaning+%26+Visualization;Building+Interactive+Dashboards" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Power+BI+%7C+Python+%7C+Tableau;Data+Cleaning+%26+Visualization;Building+Interactive+Dashboards" />
 </p>
 
 ---
@@ -10,50 +10,24 @@
 ## 🚀 About Me
 
 🔹 Passionate about transforming raw data into actionable insights  
-🔹 Skilled in creating interactive dashboards & reports  
+🔹 Skilled in dashboard creation, business analytics & visualization  
 🔹 Focused on solving real-world business problems using data  
-🔹 Currently improving skills in analytics, visualization & storytelling  
+🔹 Continuously learning and improving analytical skills  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,python,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-### 📊 Data Analytics Tools
-- SQL  
-- Power BI  
-- Excel  
-- Data Cleaning  
-- Data Visualization  
-- Dashboard Design  
-- Business Analysis  
-
----
-
-## 📌 Featured Projects
-
-### 🏥 Healthcare Analytics Dashboard
-- Analyzed patient, billing & insurance data
-- Built interactive Power BI dashboards
-- Identified trends in medical conditions & hospital performance
-
-### 📈 Business Insights Projects
-- KPI dashboards
-- Trend analysis
-- Data storytelling visuals
-- Performance tracking reports
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
   
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
 </p>
 
 ---
