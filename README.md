@@ -10,12 +10,6 @@
 I am a Bachelor of Commerce graduate actively bridging the gap between business intelligence and data analytics. My academic background has provided me with a strong foundation in financial analysis, business operations, and market dynamics, which I am now leveraging to extract actionable insights from complex datasets. I am deeply passionate about data-driven decision-making, statistical modeling, and predictive analytics, and I aim to specialize as a Data Analyst as my long-term career path.
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/yourusername?label=STARS&color=red&style=flat" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=FOLLOWERS&color=blue&style=flat" alt="Followers" />
-</div>
-
 <br>
 
 <div>
