@@ -2,9 +2,8 @@
 <h3 align="center">Transforming raw data into meaningful insights that drive better business decisions..</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&color=2F80ED&center=true&vCenter=true&width=700&lines=Data+Analyst;SQL+%7C+Power+BI+%7C+Python+%7C+Tableau;Turning+Data+Into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&color=00F5D4&center=true&vCenter=true&width=700&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Building+Data+Driven+Solutions" />
 </p>
-
 
 ## 🚀 About Me
 
