@@ -29,9 +29,7 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
 
 <br>
 
-<h3 align="center">💻 Tech Stack & Tools</h3>
-
-<h4 align="center">📊 Data Analytics & Visualization</h4>
+<h3 align="center">📊 Data Analytics & Visualization</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white" alt="Google Sheets">
@@ -41,7 +39,7 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
 
 <br />
 
-<h4 align="center">🗄️ Databases, IDEs & Platforms</h4>
+<h3 align="center">🗄️ Databases, IDEs & Platforms</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
