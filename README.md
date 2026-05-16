@@ -16,15 +16,7 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
     <li>☁️ Dedicated to constantly mastering new analytical techniques and business intelligence concepts.</li>
     <li>☁️ I have built a versatile foundation in SQL, Power BI, Tableau, Excel, and Python.</li>
     <li>☁️ I only like perfection.</li>
-    
 
-<h3>🤝 Connect me :</h3>
-<p align="left">
-  <a href="mailto:parbhaatszn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"></a>
-  <a href="https://linkedin.com/in/parbhaat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
-</p>
-
-<br>
 
 <h3 align="center">⚙️ Tech Stack & Tools</h3>
 <div align="center">
@@ -40,3 +32,9 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
 </div>
 
 <br />
+
+<h3>🤝 Connect me :</h3>
+<p align="left">
+  <a href="mailto:parbhaatszn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"></a>
+  <a href="https://linkedin.com/in/parbhaat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
+</p>
