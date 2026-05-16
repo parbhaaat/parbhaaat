@@ -31,19 +31,7 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
 <h3 align="center">📚 Languages & tools I Have placed My Hands On</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,cs,dotnet,react,nodejs,express,mysql,postgres,mongodb,firebase,git,github,vscode,docker,figma&perline=10" />
-  </a>
-</div>
-
-<br>
-
-<h3 align="center">⭐ Best Repositories</h3>
-<div align="center">
-  <a href="https://github.com/yourusername/Data-Science">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Data-Science&theme=tokyonight" width="48%" alt="Data Science Repo">
-  </a>
-  <a href="https://github.com/yourusername/Artificial-Intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Artificial-Intelligence&theme=tokyonight" width="48%" alt="AI Repo">
+    <img src="https://skillicons.dev/icons?i=excel,googlesheets,mysql,python,tableau,powerbi,pycharm,jupyternotebook,vscode&perline=10" />
   </a>
 </div>
 
