@@ -27,15 +27,6 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
   <a href="https://linkedin.com/in/parbhaat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
 </p>
 
-<br>
-
-<h3 align="center">📈 Github Status</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</div>
-
-<br>
 
 <h3 align="center">📚 Languages & tools I Have placed My Hands On</h3>
 <div align="center">
