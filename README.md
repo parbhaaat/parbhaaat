@@ -19,9 +19,7 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
     <li>☁️ Dedicated to constantly mastering new analytical techniques and business intelligence concepts.</li>
     <li>☁️ I have built a versatile foundation in SQL, Power BI, Tableau, Excel, and Python.</li>
     <li>☁️ I only like perfection.</li>
-  
-
-<br><br><br>
+    
 
 <h3>🤝 Connect me :</h3>
 <p align="left">
