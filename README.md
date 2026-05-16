@@ -5,16 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Power+BI+%7C+Python+%7C+Tableau;Data+Cleaning+%26+Visualization;Building+Interactive+Dashboards" />
 </p>
 
----
 
 ## 🚀 About Me
 
-Aspiring Data Analyst with a strong interest in data analytics, business intelligence, and visualization.  
-I enjoy transforming raw datasets into clear, meaningful insights that help solve real-world business problems.
+🔹 Skilled in SQL, Power BI, Tableau, Excel, and Python for analytics & visualization  
+🔹 Experienced in data cleaning, dashboard creation, and data storytelling  
+🔹 Interested in solving real-world business problems using data-driven decision making  
+🔹 Continuously learning new tools, analytical techniques, and business intelligence concepts  
+🔹 Focused on building interactive dashboards and impactful analytics projects
 
-Skilled in SQL, Power BI, Tableau, Excel, and Python, with a focus on interactive dashboards, data cleaning, and storytelling through data. Currently expanding my analytical and problem-solving skills by building hands-on projects and exploring modern data-driven solutions.
 
----
 ## 🛠️ Tech Stack
 
 <p align="center">
