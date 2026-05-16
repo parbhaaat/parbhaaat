@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1080" height="328" alt="A beautiful night at Mangrove_(1)" src="https://github.com/user-attachments/assets/53b49376-162e-4f31-87a0-ca584b75980c" />
+ <img width="1080" height="278" alt="A beautiful night at Mangrove_(1)" src="https://github.com/user-attachments/assets/ffbd0317-6760-4c79-b114-3a45360cbf68" />
 </div>
 <h1 align="center">Hey, I'm Parbhaat Sharma.</h1>
 
