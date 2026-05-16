@@ -10,16 +10,15 @@
 I am a Bachelor of Commerce graduate actively bridging the gap between business intelligence and data analytics. My academic background has provided me with a strong foundation in financial analysis, business operations, and market dynamics, which I am now leveraging to extract actionable insights from complex datasets. I am deeply passionate about data-driven decision-making, statistical modeling, and predictive analytics, and I aim to specialize as a Data Analyst as my long-term career path.
 </p>
 
----
   
   <h3>💫 About Me</h3>
   
   <ul>
-    <li>🎓 I am currently working on and developing my programming skills.</li>
-    <li>🛠️ I worked on .Net Framework and experience in Model-View-Controller.</li>
-    <li>☁️ Skills I acquire in programming languages such as Python, SQL.</li>
-    <li>⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</li>
-    <li>✨ I only like perfection.</li>
+    <li>☁️I'm Currently working on and developing my Analytics skills everyday.</li>
+    <li>☁️ My focus is on building interactive dashboards that drive smart, data-backed decisions.</li>
+    <li>☁️ Dedicated to constantly mastering new analytical techniques and business intelligence concepts.</li>
+    <li>☁️ I have built a versatile foundation in SQL, Power BI, Tableau, Excel, and Python, choosing the right tool for the right analytical challenge..</li>
+    <li>☁️ I only like perfection.</li>
   </ul>
 </div>
 
