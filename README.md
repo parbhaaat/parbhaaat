@@ -28,10 +28,10 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
 </p>
 
 
-<h3 align="center">📚 Languages & tools I Have placed My Hands On</h3>
+<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=excel,googlesheets,mysql,python,tableau,powerbi,pycharm,jupyternotebook,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,powerbi,tableau,excel,sheets,pycharm,anaconda,vscode&perline=10" alt="My Skills" />
   </a>
 </div>
 
