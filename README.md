@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x300/1a1b26/ffffff?text=Replace+with+your+Header+GIF+or+Image" alt="Header Banner" width="100%">
+  <img width="448" height="329" alt="download (6)" src="https://github.com/user-attachments/assets/fa4ae114-609a-4d66-9fc3-1c8635586a10" />
 </div>
 
 <br>
