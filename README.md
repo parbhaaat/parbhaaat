@@ -4,10 +4,10 @@
 
 <br>
 
-<h1 align="center">Namaste 🙏 I'm [Your Name]</h1>
+<h1 align="center">Namaste 🙏 I'm Parbhaat Sharma.</h1>
 
 <p align="center">
-  I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in software development while actively exploring emerging technologies. I am particularly passionate about Artificial Intelligence and Machine Learning, and I aim to specialize in these fields as a long-term career path.
+I am a Bachelor of Commerce graduate actively bridging the gap between business intelligence and data analytics. My academic background has provided me with a strong foundation in financial analysis, business operations, and market dynamics, which I am now leveraging to extract actionable insights from complex datasets. I am deeply passionate about data-driven decision-making, statistical modeling, and predictive analytics, and I aim to specialize as a Data Analyst as my long-term career path.
 </p>
 
 <div align="center">
