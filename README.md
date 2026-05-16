@@ -40,7 +40,3 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://via.placeholder.com/1000x300/1a1b26/ffffff?text=Replace+with+your+Footer+GIF+or+Image" alt="Footer Banner" width="100%">
-</div>
