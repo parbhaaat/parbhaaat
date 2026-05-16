@@ -11,7 +11,7 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
 </p>
 
   
-  <h3>💫 About Me</h3>
+  <h3>About Me</h3>
   
   <ul>
     <li>☁️I'm Currently working on and developing my Analytics skills everyday.</li>
