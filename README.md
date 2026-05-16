@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="736" height="237" alt="headers __ @sewminixn" src="https://github.com/user-attachments/assets/2777c0f9-340b-43fc-a7e0-7e5da7c1acbe" />
+  <img width="736" height="245" alt="download (7)" src="https://github.com/user-attachments/assets/1e7472b4-27db-41ae-b7c1-db815d77f11a" />
 </div>
 
 <br>
