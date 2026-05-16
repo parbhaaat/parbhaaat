@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Parbhaat Sharma</h1>
-<h3 align="center">Aspiring Data Analyst turning raw data into meaningful business insights.</h3>
+<h3 align="center">Transforming raw data into meaningful insights that drive better business decisions..</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Power+BI+%7C+Python+%7C+Tableau;Data+Cleaning+%26+Visualization;Building+Interactive+Dashboards" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&color=00F5D4&center=true&vCenter=true&width=700&lines=Data+Analytics+Engineer;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Building+Data+Driven+Solutions" />
 </p>
 
 
