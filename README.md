@@ -1,31 +1,109 @@
-<h1 align="center">Hey, I'm Parbhaat Sharma</h1>
-<h3 align="center">Welcome to my Github.</h3>
+<div align="center">
+  <img src="https://via.placeholder.com/1000x300/1a1b26/ffffff?text=Replace+with+your+Header+GIF+or+Image" alt="Header Banner" width="100%">
+</div>
+
+<br>
+
+<h1 align="center">Namaste 🙏 I'm [Your Name]</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&color=00F5D4&center=true&vCenter=true&width=700&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Building+Data+Driven+Solutions" />
+  I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in software development while actively exploring emerging technologies. I am particularly passionate about Artificial Intelligence and Machine Learning, and I aim to specialize in these fields as a long-term career path.
 </p>
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/yourusername?label=STARS&color=red&style=flat" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=FOLLOWERS&color=blue&style=flat" alt="Followers" />
+</div>
 
-🔹 I'm Currently working on and developing my skills eveyrday.
-🔹 My focus is on building interactive dashboards that drive smart, data-backed decisions.
-🔹 Dedicated to constantly mastering new analytical techniques and business intelligence concepts.
-🔹 I'm Currently working on and developing my skills eveyrday.
-🔹 I have built a versatile foundation in SQL, Power BI, Tableau, Excel, and Python, choosing the right tool for the right analytical challenge.
+<br>
 
+<div>
+  <img align="right" width="350" src="https://via.placeholder.com/350x250/ffffff/000000?text=Replace+with+your+Illustration+Image" alt="Coding Illustration">
+  
+  <h3>💫 About Me</h3>
+  
+  <ul>
+    <li>🎓 I am currently working on and developing my programming skills.</li>
+    <li>🛠️ I worked on .Net Framework and experience in Model-View-Controller.</li>
+    <li>☁️ Skills I acquire in programming languages such as Python, SQL.</li>
+    <li>⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</li>
+    <li>✨ I only like perfection.</li>
+  </ul>
+</div>
 
+<br><br><br>
 
-## 🛠️ Tech Stack
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
+<h3>🤝 Connect me :</h3>
+<p align="left">
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
+  <a href="https://spotify.com/yourprofile"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" height="30"></a>
+  <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="30"></a>
 </p>
 
+<br>
 
+<h3 align="center">📈 Github Status</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</div>
 
+<br>
+
+<h3 align="center">📚 Languages & tools I Have placed My Hands On</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,cs,dotnet,react,nodejs,express,mysql,postgres,mongodb,firebase,git,github,vscode,docker,figma&perline=10" />
+  </a>
+</div>
+
+<br>
+
+<h3 align="center">⭐ Best Repositories</h3>
+<div align="center">
+  <a href="https://github.com/yourusername/Data-Science">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Data-Science&theme=tokyonight" width="48%" alt="Data Science Repo">
+  </a>
+  <a href="https://github.com/yourusername/Artificial-Intelligence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Artificial-Intelligence&theme=tokyonight" width="48%" alt="AI Repo">
+  </a>
+</div>
+
+<br>
+
+<h3 align="center">💻 Tech Stack:</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+</div>
+
+<br>
+
+<h3 align="center">Support Me ☕</h3>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/yourusername">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://via.placeholder.com/1000x300/1a1b26/ffffff?text=Replace+with+your+Footer+GIF+or+Image" alt="Footer Banner" width="100%">
+</div>
