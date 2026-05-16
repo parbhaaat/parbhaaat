@@ -17,7 +17,7 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
     <li>☁️I'm Currently working on and developing my Analytics skills everyday.</li>
     <li>☁️ My focus is on building interactive dashboards that drive smart, data-backed decisions.</li>
     <li>☁️ Dedicated to constantly mastering new analytical techniques and business intelligence concepts.</li>
-    <li>☁️ I have built a versatile foundation in SQL, Power BI, Tableau, Excel, and Python, choosing the right tool for the right analytical challenge..</li>
+    <li>☁️ I have built a versatile foundation in SQL, Power BI, Tableau, Excel, and Python.</li>
     <li>☁️ I only like perfection.</li>
   
 
@@ -25,10 +25,8 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
 
 <h3>🤝 Connect me :</h3>
 <p align="left">
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
-  <a href="https://spotify.com/yourprofile"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" height="30"></a>
-  <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="30"></a>
+  <a href="mailto:parbhaatszn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"></a>
+  <a href="https://linkedin.com/in/parbhaat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
 </p>
 
 <br>
