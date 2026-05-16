@@ -10,10 +10,7 @@
 I am a Bachelor of Commerce graduate actively bridging the gap between business intelligence and data analytics. My academic background has provided me with a strong foundation in financial analysis, business operations, and market dynamics, which I am now leveraging to extract actionable insights from complex datasets. I am deeply passionate about data-driven decision-making, statistical modeling, and predictive analytics, and I aim to specialize as a Data Analyst as my long-term career path.
 </p>
 
-<br>
-
-<div>
-  <img align="right" width="350" src="https://via.placeholder.com/350x250/ffffff/000000?text=Replace+with+your+Illustration+Image" alt="Coding Illustration">
+---
   
   <h3>💫 About Me</h3>
   
