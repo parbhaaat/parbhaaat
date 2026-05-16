@@ -14,13 +14,12 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
   <h3>About Me</h3>
   
   <ul>
-    <li>☁️I'm Currently working on and developing my Analytics skills everyday.</li>
-    <li>☁️ My focus is on building interactive dashboards that drive smart, data-backed decisions.</li>
-    <li>☁️ Dedicated to constantly mastering new analytical techniques and business intelligence concepts.</li>
-    <li>☁️ I have built a versatile foundation in SQL, Power BI, Tableau, Excel, and Python.</li>
-    <li>☁️ I only like perfection.</li>
-  </ul>
-</div>
+    ☁️I'm Currently working on and developing my Analytics skills everyday.
+    ☁️ My focus is on building interactive dashboards that drive smart, data-backed decisions.
+    ☁️ Dedicated to constantly mastering new analytical techniques and business intelligence concepts.
+    ☁️ I have built a versatile foundation in SQL, Power BI, Tableau, Excel, and Python.
+    ☁️ I only like perfection.
+  
 
 <br><br><br>
 
