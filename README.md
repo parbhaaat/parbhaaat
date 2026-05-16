@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="736" height="242" alt="download (9)" src="https://github.com/user-attachments/assets/dda8b65e-b8f5-4cea-9c50-9afecf69ab11" />
+  <img width="1080" height="328" alt="A beautiful night at Mangrove_(1)" src="https://github.com/user-attachments/assets/53b49376-162e-4f31-87a0-ca584b75980c" />
 </div>
 
 <br>
