@@ -9,9 +9,9 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
 </p>
 
 
-<h3>🧩 About Me</h3>
-
 <div align="left">
+  
+<h3>🧩 About Me</h3>
 
 <ul>
   <li>☁️ I'm currently working on and developing my analytics skills every day.</li>
