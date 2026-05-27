@@ -39,8 +39,8 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
 
 <br />
 
-<h3>🤝 Connect me :</h3>
 <p align="left">
+<h3>🤝 Connect me :</h3>
   <a href="mailto:parbhaatszn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"></a>
   <a href="https://linkedin.com/in/parbhaat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
 </p>
