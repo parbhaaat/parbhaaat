@@ -4,11 +4,11 @@
   
 <h1 align="center">Hey, I'm Parbhaat Sharma.</h1>
 
-<p align="center">
+<p align="left">
 I am a Bachelor of Commerce graduate actively bridging the gap between business intelligence and data analytics. My academic background has provided me with a strong foundation in financial analysis, business operations, and market dynamics, which I am now leveraging to extract actionable insights from complex datasets. I am deeply passionate about data-driven decision-making, statistical modeling, and predictive analytics, and I aim to specialize as a Data Analyst as my long-term career path.
 </p>
 
-  
+<p align="left"> 
   <h3>🧩 About Me</h3>
   
   <ul>
@@ -17,7 +17,7 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
     <li>☁️ Dedicated to constantly mastering new analytical techniques and business intelligence concepts.</li>
     <li>☁️ I have built a versatile foundation in SQL, Power BI, Tableau, Excel, and Python.</li>
     <li>☁️ I only like perfection.</li>
-
+</p>
 
 <h3 align="center">⚙️ Tech Stack & Tools</h3>
 <div align="center">
