@@ -9,14 +9,19 @@ I am a Bachelor of Commerce graduate actively bridging the gap between business 
 </p>
 
 
-  <h3>🧩 About Me</h3>
-  
-  <ul>
-    <li>☁️I'm Currently working on and developing my Analytics skills everyday.</li>
-    <li>☁️ My focus is on building interactive dashboards that drive smart, data-backed decisions.</li>
-    <li>☁️ Dedicated to constantly mastering new analytical techniques and business intelligence concepts.</li>
-    <li>☁️ I have built a versatile foundation in SQL, Power BI, Tableau, Excel, and Python.</li>
-    <li>☁️ I only like perfection.</li>
+<h3>🧩 About Me</h3>
+
+<div align="left">
+
+<ul>
+  <li>☁️ I'm currently working on and developing my analytics skills every day.</li>
+  <li>☁️ My focus is on building interactive dashboards that drive smart, data-backed decisions.</li>
+  <li>☁️ Dedicated to constantly mastering new analytical techniques and business intelligence concepts.</li>
+  <li>☁️ I have built a versatile foundation in SQL, Power BI, Tableau, Excel, and Python.</li>
+  <li>☁️ I only like perfection.</li>
+</ul>
+
+</div>
 
 
 <h3 align="center">⚙️ Tech Stack & Tools</h3>
