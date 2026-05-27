@@ -1,5 +1,7 @@
 <div align="center">
+  
 <img width="3680" height="395" alt="hi_upscayl_5x_digital-art-4x" src="https://github.com/user-attachments/assets/0c29d03f-6fc2-4e82-a82a-21bef45a9513" />
+  
 <h1 align="center">Hey, I'm Parbhaat Sharma.</h1>
 
 <p align="center">
